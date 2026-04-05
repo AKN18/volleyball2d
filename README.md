@@ -7,10 +7,11 @@ A fast-paced 2D volleyball game built with LÖVE2D. Play against a friend or cha
 ## Screenshots
 
 <!-- Paste your image links below -->
+<img width="1581" height="1257" alt="grafik" src="https://github.com/user-attachments/assets/18048903-9fe0-495f-aeb6-4b8d94b4b8b2" />
 
-![Gameplay Screenshot 1](PASTE_IMAGE_URL_1_HERE)
 
-![Gameplay Screenshot 2](PASTE_IMAGE_URL_2_HERE)
+<img width="1597" height="1247" alt="grafik" src="https://github.com/user-attachments/assets/4950cdca-6381-48a4-93b8-bcb3c7e905cb" />
+
 
 ---
 
