@@ -22,6 +22,7 @@ A fast-paced 2D volleyball game built with LÖVE2D. Play against a friend or cha
 
 ### Running the Game
 
+```bash
 # Run with LÖVE
 love .
 ```
