@@ -22,31 +22,9 @@ A fast-paced 2D volleyball game built with LÖVE2D. Play against a friend or cha
 
 ### Running the Game
 
-**Windows:**
-```bash
-# Drag the project folder onto love.exe
-# Or run from command line:
-love C:\Users\nessa\Documents\volleyball2d
-```
-
-**macOS/Linux:**
-```bash
-# Navigate to project directory
-cd /path/to/volleyball2d
-
 # Run with LÖVE
 love .
 ```
-
-**Alternative (create .love file):**
-```bash
-# Zip all files (ensure main.lua is at root) and rename to .love
-cd C:\Users\nessa\Documents\volleyball2d
-zip -r spike-arena.love .
-love spike-arena.love
-```
-
----
 
 ## How to Play
 
@@ -124,33 +102,3 @@ volleyball2d/
     ├── player.lua          # Player physics and animation
     └── storage.lua         # Match history persistence
 ```
-
----
-
-## Game States
-
-1. **MENU** - Main menu with Start, Options, Credits, Exit
-2. **MODE_SELECT** - Choose between PvP or CPU mode
-3. **SERVE** - Serving phase with banner countdown
-4. **PLAYING** - Active gameplay
-5. **POINT_SCORED** - Brief pause after a point is scored
-6. **SUDDEN_DEATH** - Overtime when scores are tied
-7. **GAME_OVER** - Match results and match history
-
----
-
-## Features
-
-- Smooth 2D physics with gravity and collision detection
-- Animated sprites for players and ball
-- AI opponent with adjustable difficulty
-- Match history tracking
-- Screen shake effects on spikes
-- Score flash animations
-- Persistent storage for match results
-
----
-
-## License
-
-This project is created for educational and entertainment purposes.
